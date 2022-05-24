@@ -1,0 +1,3 @@
+[submodule "naya100"]
+	path = naya100
+	url = https://github.com/upleatPKO/naya100.git
